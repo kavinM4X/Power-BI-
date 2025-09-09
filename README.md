@@ -6,23 +6,8 @@ A short description about your project.
 
 ---
 
-## Screenshots
-
-## Lab 1
-![Screenshot](Screenshot%202025-09-09%20144026.png)
-
-![Screenshot](Screenshot%202025-09-09%20144118.png)
-
-![Screenshot](Screenshot%202025-09-09%20144138.png)
-
-## Lab 2
-![Screenshot](Screenshot%202025-09-09%20144416.png)
-
-![Screenshot](Screenshot%202025-09-09%20144503.png)
-
-![Screenshot](Screenshot%202025-09-09%20144516.png)
-
-![Screenshot](Screenshot%202025-09-09%20144536.png)
-
 ### Final Dashboard
+
+### Meesho Sales Data
+
 ![Screenshot](Screenshot%202025-09-09%20113642.png)
